@@ -1,6 +1,5 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://mir-s3-cdn-cf.behance.net/71c15749c44f93a8c250813fd41fdfc8/e531c385-ae68-4476-87e7-c00b6caaadeb_rwc_0x462x2048x226x2048.png?h=75f88f17a886a8619d3aeb033652edda" alt="$translate('profile_banner_image_alt', 'User's profile banner')" align="center" >
 <h1 align="center">Hi 👋, I'm Joy </h1>
-
 <h3 align="center">A passionate WEB Designer & Digital Markeeter from BD.</h3>
 <h4 align="center">I believe in Learn, Earn and Grow.</h4>
 
