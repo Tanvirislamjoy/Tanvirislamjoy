@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joy </h1>
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
 <h3 align="center">A passionate WEB Designer & Digital Markeeter from BD.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirislamjoy&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirislamjoy" /> </p> 
@@ -39,3 +42,4 @@
 <h3 align="left">Badges::</h3>
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
