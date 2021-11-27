@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Joy </h1>
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<h1 align="center">Hi 👋, I'm Joy </h1>
 
 <h3 align="center">A passionate WEB Designer & Digital Markeeter from BD.</h3>
 
