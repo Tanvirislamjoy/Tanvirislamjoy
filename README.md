@@ -1,8 +1,8 @@
-
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <h1 align="center">Hi 👋, I'm Joy </h1>
 
 <h3 align="center">A passionate WEB Designer & Digital Markeeter from BD.</h3>
+<h4 align="center">I believe in Learn, Earn and Grow.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirislamjoy&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirislamjoy" /> </p> 
 
