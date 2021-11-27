@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joy</h1>
-<h3 align="center">A passionate WEB Designer & SEO Developer from BD.</h3>
+<h3 align="center">A passionate WEB Designer & Digital Markeeter from BD.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirislamjoy&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirislamjoy" /> </p>
 
