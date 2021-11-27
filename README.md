@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Joy</h1>
 <h3 align="center">A passionate WEB Designer & Digital Markeeter from BD.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirislamjoy&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirislamjoy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvirislamjoy" alt="tanvirislamjoy" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirislamjoy&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirislamjoy" /> </p> 
 
 - 📝 I regularly write articles on [fb.me/tanvirislamjoy](fb.me/tanvirislamjoy)
 
-- 💬 Ask me about **WEB Design & Digital Markeeting**
+- 💬 Ask me about: **WEB Design & Digital Markeeting**
 
-- 📫 How to reach me **tanvirislamjoy@gmail.com**
+- 📫 How to reach me: **tanvirislamjoy@gmail.com**
 
-- ⚡ Fun fact **I think I am funny.!**
+- ⚡ Fun fact: **I think I am funny.!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
