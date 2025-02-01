@@ -1,4 +1,4 @@
-<img src="https://www.linkedin.com/in/tanvirislamjoy/overlay/background-image/" alt="$translate('profile_banner_image_alt', 'User's profile banner')" align="center" >
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGoZT-eLnXC8A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727040142256?e=1743638400&v=beta&t=r8h26AGZ5Zi3-bJiNibpuzcttKlyf35mhJKr4tOVbt8" alt="('profile_banner_image_alt', 'User's profile banner')" align="center" >
 <h1 align="center">Hi 👋, I'm TANVIR</h1>
 <h3 align="center">A passionate software engineer from UK</h3>
 
