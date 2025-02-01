@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tanvirspace.biz+github@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tanvirislamjoy/](https://www.linkedin.com/in/tanvirislamjoy/)
+- 📄 Know about my experiences [https://leetcode.com/u/tanvirspace/](https://leetcode.com/u/tanvirspace/)
 
 - ⚡ Fun fact **Love to solving problems.**
 
