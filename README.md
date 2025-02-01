@@ -32,7 +32,7 @@
   <a href="https://www.sketchup.com/en" target="_blank" rel="noreferrer"> <img src="https://w1.pngwing.com/pngs/86/350/png-transparent-3ds-max-logo-sketchup-3d-modeling-android-3d-computer-graphics-handheld-devices-tablet-computers-trimble-thumbnail.png" alt="sketchup" width="40" height="40"/> </a>
   <a href="https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/3ds-max.png" alt="3dsmax" width="40" height="40"/> </a>
   <a href="https://www.d5render.com/" target="_blank" rel="noreferrer"> <img src="https://mir-s3-cdn-cf.behance.net/user/276/3d1fe51225560823.623a8f0c2121d.png" alt="D5" width="40" height="40"/> </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://www.pngpacks.com/uploads/data/2095/IMG_xePUww1GOoDr.png" alt="blender" width="40" height="40"/> </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 
    <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
   <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a>
