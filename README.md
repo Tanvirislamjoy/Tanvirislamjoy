@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C, C++, Python, MySQL**
 
-- 💬 Ask me about **DSA(Data Structures and Algorithms)**
+- 💬 Intrested to learn about **DSA(Data Structures and Algorithms)**
 
 - 📫 How to reach me **tanvirspace.biz+github@gmail.com**
 
